@@ -77,7 +77,7 @@ Cette analyse peut être utile pour:
   - Les chercheurs étudiant les inégalités éducatives à NYC
 
 ### Auteur 🙆🏻‍♀️
-Nana CHEN - [Mail](cxxnana@gmail.com) - [LinkedIn](https://www.linkedin.com/in/cxxhime/)
+Nana CHEN - [Mail](mailto:cxxnana@gmail.com) - [LinkedIn](https://www.linkedin.com/in/cxxhime/)
 
 ### Remarques
 Ce projet a été réalisé dans le cadre d'un exercice DataCamp visant à démontrer les compétences en analyse de données avec Python et Pandas.
