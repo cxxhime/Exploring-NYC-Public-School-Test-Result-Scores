@@ -64,7 +64,7 @@ L'analyse utilise le fichier schools.csv qui contient des informations sur les �
 - Techniques d'agrégation et de regroupement
 - Calculs statistiques (moyenne, écart-type)
 
-### Comment Utiliser ce Projet
+### Comment Utiliser ce Projet ❓
 
 1. Clonez ce dépôt
 2. Assurez-vous que la bibliothèque Pandas est installée
