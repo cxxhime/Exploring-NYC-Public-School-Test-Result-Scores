@@ -6,7 +6,7 @@ schools.head()
 df_schools = pd.DataFrame(schools)
 # DataFrame with the school_name, average_math (sorted values)
 best_math_schools = df_schools[df_schools["average_math"] > 640][["school_name", "average_math"]].sort_values("average_math", ascending=False)
-print("List of the schools with the best maths results", best_math_schools)
+print(best_math_schools.to_string())
 
 # What are the top 10 performing schools based on the combined SAT scores?
 # Sum of the total results of the differents schools
